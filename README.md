@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Felipe.ofs06@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511996412785)
 
-![FELIPE GitHub stats](https://github-readme-stats.vercel.app/api?username=FELIPEOFS06&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que eu uso no meu dia
 
